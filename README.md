@@ -51,7 +51,7 @@ Topics covered include:
   - Used **VGG16** as a pretrained feature extractor for binary classification (dent vs crack).  
   - Built a **custom Keras layer** integrating **BLIP (Transformer)** for captioning & summarization.  
   - Achieved ~84% test accuracy on classification + generated natural-language summaries.  
-  - [Final Project Notebook]([Final_Project_Classification_and_Captioning.ipynb](https://github.com/AhmadTawil1/ibm-intro-neuralNetworks-deepLearning/blob/main/module5-final-project/Final_Project_Classification_and_Captioning.ipynb))
+  - [Final Project Notebook]((https://github.com/AhmadTawil1/ibm-intro-neuralNetworks-deepLearning/blob/main/module5-final-project/Final_Project_Classification_and_Captioning.ipynb))
 
 ---
 
